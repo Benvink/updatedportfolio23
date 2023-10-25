@@ -34,8 +34,8 @@ margin-bottom: 30px;
   font-size: 20px;
 }
 .aboutImage{
-  width: 50%;
-  height: 50%;
+  width: 48vh;
+  height: 30vh;
   margin-right: 5%;
   margin-top: 1%;
   padding-bottom: 15%;
@@ -103,9 +103,16 @@ margin-bottom: 30px;
 .PortfolioBlurb p{
   font-size: 15px;
   padding-right: 10%;
-
+}
+.divider{
+  background-color: E8E9EB;
+  width: 100%;
+  height: 2px;
+  border-color: black;
+  margin-top: 30px;
 
 }
+
 .selectedPortfolioProjects{
   padding-left: 0%;
 }
